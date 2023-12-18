@@ -7,7 +7,7 @@ UI Bakery is a powerful platform designed to streamline the development of web a
 Our GitHub repository features a diverse collection of UI Bakery templates, catering to various needs and use-cases. Whether you're building a business dashboard, an e-commerce site, or a custom application, our templates are a good way to start with your UI Bakery app development.
 
 ### Featured Templates
-- **(Ecommerce fraud prevention)[https://github.com/uibakery-templates/ecommerce-fraud-prevention]**: This tool enables active surveillance of questionable transactions, allows for in-depth examination of customer information, and facilitates the extraction of analytical data on fraud patterns, safeguarding the security and authenticity of online transactions.
+- **[Ecommerce fraud prevention](https://github.com/uibakery-templates/ecommerce-fraud-prevention)**: This tool enables active surveillance of questionable transactions, allows for in-depth examination of customer information, and facilitates the extraction of analytical data on fraud patterns, safeguarding the security and authenticity of online transactions.
 
 ## Getting Started
 To get started with our templates:
@@ -21,6 +21,6 @@ To get started with our templates:
 We welcome contributions to our template collection! If you have a template that you think would benefit the UI Bakery community, please read our contribution guidelines and submit your template for review.
 
 ## Stay Connected
-- **Follow Us on Social Media**: Stay updated with our latest templates and features. (Twitter / X)[https://x.com/uibakery] (LinkedIn)[https://linkedin.com/company/uibakery]
+- **Follow Us on Social Media**: Stay updated with our latest templates and features. [Twitter / X](https://x.com/uibakery) [LinkedIn](https://linkedin.com/company/uibakery)
 
 Thank you for being part of our community!
